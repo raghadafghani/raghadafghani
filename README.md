@@ -41,4 +41,6 @@
 
 
 ### 🕹️ Interactive Game Controller!
+![image](https://github.com/raghadafghani/raghadafghani/assets/105122460/7e50d3a9-70d5-472a-bf9f-e2536319dcaf)
+
 
