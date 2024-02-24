@@ -4,8 +4,8 @@
 **raghadafghani/raghadafghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Computer Engineering](https://img.shields.io/badge/Computer_Engineering-Student-blue?style=for-the-badge&logo=appveyor)
-![Birzeit University](https://img.shields.io/badge/Birzeit_University-Proud_Student-orange?style=for-the-badge&logo=appveyor)
+![Computer Engineering](https://img.shields.io/badge/Computer_Engineering-Student-7289DA?style=for-the-badge&logo=appveyor)
+![Birzeit University](https://img.shields.io/badge/Birzeit_University-Graduation_Semester-FFC83D?style=for-the-badge&logo=appveyor)
 
 🚀 I'm a  Computer Engineer student from **Birzeit University**, deeply passionate about **technology** and **innovation**. Welcome to my digital garden 🌼💡
 
@@ -20,6 +20,7 @@
 #### 📫 Connect with me:
 
 <a href="mailto:raghadafghani2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/raghad-afghani-7a2421222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 #### 💼 Languages and Tools:
 
