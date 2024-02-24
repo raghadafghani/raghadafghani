@@ -41,5 +41,5 @@
 
 
 ### 🕹️ Enjoy your day!
-![T-REX GIF](T-REX.gif)
+![T-REX GIF](T-REX.gif =800x)
 
