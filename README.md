@@ -12,7 +12,7 @@
 #### 🌟 About Me
 
 - 🔭 I’m on my path to earning a Bachelor's degree in Computer Engineering.
-- 🌱 Diving deep into **software development** 🖥, **machine learning** 🤖, and **embedded systems** 🛠.
+- ⚡ Interested in **software development** 🖥, **machine learning** 🤖, and **embedded systems** 🛠.
 - 💬 Got questions about tech? Feel free to reach out; I love to assist and learn together 🌱.
 
 #### 📫 Connect with me:
