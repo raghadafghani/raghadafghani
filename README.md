@@ -30,15 +30,14 @@
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
 
-<br/>
-
----
 
 ### 📈 GitHub Stats
 
 ![Raghad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghadafghani&show_icons=true&theme=radical)
 
+<br/>
 
+---
 
 ### 🕹️ Enjoy your day!
 <img src="T-REX.gif" alt="T-REX GIF" width="600">
