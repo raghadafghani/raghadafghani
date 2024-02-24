@@ -36,8 +36,8 @@
 
 <br/>
 
----
 
 ### 🕹️ Enjoy your day!
 <img src="T-REX.gif" alt="T-REX GIF" width="600">
 
+---
