@@ -13,8 +13,6 @@
 
 - 🔭 I’m on my path to earning a Bachelor's degree in Computer Engineering.
 - 🌱 Diving deep into **software development** 🖥, **machine learning** 🤖, and **embedded systems** 🛠.
-- 👯 Eager to collaborate on **open-source projects** 🌍 and **technologies for social good** ❤️.
-- 🤔 Seeking guidance on **advanced algorithms** 🧠 and **data structures** 📚.
 - 💬 Got questions about tech? Feel free to reach out; I love to assist and learn together 🌱.
 
 #### 📫 Connect with me:
