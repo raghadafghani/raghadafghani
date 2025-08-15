@@ -4,8 +4,8 @@
 **raghadafghani/raghadafghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Computer Engineering](https://img.shields.io/badge/Computer_Engineering-Student-7289DA?style=for-the-badge&logo=appveyor)
-![Birzeit University](https://img.shields.io/badge/Birzeit_University-Graduation_Semester-FFC83D?style=for-the-badge&logo=appveyor)
+![Computer Engineering](https://img.shields.io/badge/Computer_Engineering-7289DA?style=for-the-badge&logo=appveyor)
+![Birzeit University](https://img.shields.io/badge/Birzeit_University-Graduate-FFC83D?style=for-the-badge&logo=appveyor)
 
 
 #### 🌟 About Me
