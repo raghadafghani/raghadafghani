@@ -7,13 +7,11 @@
 ![Computer Engineering](https://img.shields.io/badge/Computer_Engineering-Student-7289DA?style=for-the-badge&logo=appveyor)
 ![Birzeit University](https://img.shields.io/badge/Birzeit_University-Graduation_Semester-FFC83D?style=for-the-badge&logo=appveyor)
 
-🚀 I'm a  Computer Engineer student from **Birzeit University**, deeply passionate about **technology** and **innovation**. Welcome to my digital garden 🌼💡
 
 #### 🌟 About Me
 
-- 🔭 I’m on my path to earning a Bachelor's degree in Computer Engineering.
+- 🔭 - Computer Engineering graduate from Birzeit University.  
 - ⚡ Interested in **software development** 🖥, **machine learning** 🤖, and **embedded systems** 🛠.
-- 💬 Got questions about tech? Feel free to reach out; I love to assist and learn together 🌱.
 
 #### 📫 Connect with me:
 
